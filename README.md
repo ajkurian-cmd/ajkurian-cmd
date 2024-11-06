@@ -4,7 +4,9 @@ I’m an aspiring Software Developer currently pursuing a Bachelor’s in Applie
 With experience in C#, Java, SQL, and HTML/CSS, I am well-versed in .NET MAUI for developing cross-platform applications. My projects range from data-intensive GUI apps to console programs utilizing advanced data structures, such as Binary Search Trees, to tackle complex problems. I’ve built a solid foundation in both front-end and back-end development, applying principles of object-oriented programming and UI/UX design to create seamless user experiences.
 
 🌟 Snapshot
-🎓 Education: Bachelor’s in Applied IT, Waikato Institute of Technology; BTech in IT, Rajagiri School of Engineering and Technology
+
+🎓 Education: Bachelor’s in Applied IT, Waikato Institute of Technology; 
+🎓 BTech in IT, Rajagiri School of Engineering and Technology
 🎓 Certifications:
 
     The Complete Cyber Security Course (2023)
@@ -16,6 +18,7 @@ With experience in C#, Java, SQL, and HTML/CSS, I am well-versed in .NET MAUI fo
     🌍 Career Aspiration: To create secure, data-driven applications that enhance usability and insightfulness
 
 📂 Featured Projects
+
 On GitHub, you’ll find a mix of academic projects and personal explorations that reflect my commitment to learning and refining my coding practices. Here are a few favorites:
 
     [Data Science Exploration]
@@ -31,6 +34,7 @@ On GitHub, you’ll find a mix of academic projects and personal explorations th
     View Project
 
 🛠 Skills & Tools
+
 Category	Skills
 Programming	C#, Java, SQL, Python
 Data Science	Data Analysis, Machine Learning, Visualization
@@ -39,10 +43,14 @@ IT & Project Management	ITIL, Project Leadership, Agile
 Frameworks	.NET MAUI, ASP.NET, Node.js
 
 🌱 Interests
+
 📚 Lifelong learner with a passion for AI, data science, and cybersecurity
+
 🎮 Gaming and exploring tech trends
+
 🌐 Driven to develop secure, innovative solutions in web and data technologies
 
 🤝 Connect with Me
+
 Let’s connect and explore ways to innovate together!
 LinkedIn: Arun Kurian / https://www.linkedin.com/in/arun-jose-kurian-8a7837268/
